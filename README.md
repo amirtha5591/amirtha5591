@@ -189,14 +189,24 @@ This suite demonstrates command over the building blocks of the web — the same
 
 <div align="center">
 
-| Recognition | Details |
-|-------------|---------|
-| 🏗️ **178+ Repositories** | Extensive engineering portfolio spanning multiple domains |
-| 🌐 **Full Stack Proficiency** | End-to-end product engineering from UI to infrastructure |
-| 🤖 **AI/ML Implementation** | Applied machine learning models in production-style environments |
-| ⚙️ **Systems Engineering** | Low-level web server and digital logic implementations |
-| 📚 **Continuous Learner** | Active engagement with modern engineering tools and frameworks |
-| 🤝 **Open Source Contributor** | Collaborative development through GitHub's open source ecosystem |
+## ◈ Achievements
+
+<div align="center">
+
+| Achievement | Description |
+|------------|-------------|
+| 🏆 Data Science with AI Internship | Successfully completed a 30-day Data Science with AI internship at Arjun Vision |
+| 🤖 Machine Learning Projects | Developed Diabetes Prediction, Heart Disease Prediction, and Fraud Detection systems |
+| 🏍️ Java Project Development | Built a City Motor Bike Leasing System using Object-Oriented Programming concepts |
+| 🏥 Healthcare Solution Development | Contributed to the development of a Medical Report Management System |
+| 🎯 Event Organization | Organized and coordinated the "Tech Sphere" technical event through Coders Club |
+| 💻 Web Development Skills | Designed and developed responsive web applications using HTML, CSS, and JavaScript |
+| 📚 Continuous Learning | Earned certifications in AWS, Oracle Java, Cisco Networking, and Python |
+| 🌟 GeeksforGeeks Contributor | Actively participated in technical learning, coding practice, and campus activities |
+| 🔍 Information Retrieval Project | Implemented the Boolean Model in Python for document retrieval and search operations |
+| 🚀 Academic Project Portfolio | Completed multiple academic and personal projects in AI, Java, and Web Technologies |
+
+</div>
 
 </div>
 
