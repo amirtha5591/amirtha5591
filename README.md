@@ -162,26 +162,26 @@ This suite demonstrates command over the building blocks of the web — the same
 ---
 
 ## ◈ Experience
+## ◈ Experience
 
-**Software Engineering Student** &nbsp;·&nbsp; Academic & Open Source
+### Data Science with AI Intern
+**Arjun Vision**
+*2025*
+
+- Worked on Data Science and Artificial Intelligence concepts.
+- Performed data preprocessing and analysis on datasets.
+- Built and evaluated machine learning models.
+- Gained practical exposure to AI workflows and project development.
+- Improved problem-solving and analytical skills through real-world tasks.
+
+### Computer Science Engineering Student
 *2023 — Present*
 
-Actively engineering across the full software development lifecycle — from requirement analysis through design, implementation, testing, and deployment. Developing production-grade skills through hands-on project work, collaborative open source contributions, and continuous self-directed learning.
-
-- Designed and implemented full stack web applications spanning frontend UI to backend APIs and database layers
-- Engineered machine learning pipelines including data preprocessing, model training, evaluation, and REST API deployment
-- Applied systems programming principles through low-level C/Python implementations of networking and logic components
-- Contributed to 178+ repositories covering web technologies, AI/ML, digital systems, and DevOps tooling
-- Studied and applied cloud-native deployment patterns using Docker, AWS services, and CI/CD pipelines
-
-![Python](https://img.shields.io/badge/Python-6B21A8?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4F46E5?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-6B21A8?style=flat-square&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-4F46E5?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6B21A8?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-4F46E5?style=flat-square&logo=fastapi&logoColor=white)
+- Pursuing B.Tech in Computer Science and Engineering.
+- Actively developing projects in Machine Learning, Java, and Web Development.
+- Participated in coding challenges and technical events.
+- Exploring Full Stack Development and AI technologies.
+- Building practical solutions through academic and personal projects.
 
 ---
 
